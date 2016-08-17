@@ -12,7 +12,7 @@ Primeiro de tudo, instale as dependências do [Qualy-Presenter](//github.com/qua
 ```sh
 # Clone este repositório
 $ git clone https://github.com/felipemfp/iniciando-com-git
-$ cd new_project
+$ cd iniciando-com-git
 # Instale as dependências
 $ npm install
 # Executar tarefas e servir
